@@ -1,4 +1,4 @@
-The New elementary.io
+The New elementary.io for you 
 ================
 
 [![Build Status](https://travis-ci.org/elementary/website.svg?branch=master)](https://travis-ci.org/elementary/website)
@@ -24,7 +24,7 @@ Project Organization
   * The reviewer is the gatekeeper. Be kind of a dick.
 
 
-Architecture/Philosophies
+Architecture/Philosophies the skill of skills
 =========================
 
 * HTML, CSS, and JS
