@@ -6,7 +6,7 @@ The New elementary.io for you
 
 A focused, minimum viable product (hence MVP) for a website that accompanied the release of elementary OS Freya.
 
-Project Organization
+  the best Project Organization
 ====================
 
 * **Issues** for individual actionable items, or bugs i.e.:
@@ -24,7 +24,7 @@ Project Organization
   * The reviewer is the gatekeeper. Be kind of a dick.
 
 
-Architecture/Philosophies the skill of skills
+Architecture/Philosophies the skill of skills 
 =========================
 
 * HTML, CSS, and JS
